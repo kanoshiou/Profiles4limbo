@@ -1,9 +1,9 @@
 rules:
-  - IP-CIDR,18.182.5.122/32,🎯 全球直连,no-resolve
-  - IP-CIDR,163.123.192.52/32,🎯 全球直连,no-resolve
-  - IP-CIDR,163.123.192.53/32,🎯 全球直连,no-resolve
-  - IP-CIDR,163.123.192.54/32,🎯 全球直连,no-resolve
-  - IP-CIDR,163.123.192.55/32,🎯 全球直连,no-resolve
-  - IP-CIDR, 148.59.74.213/32,🎯 全球直连,no-resolve
-  - IP-CIDR, 148.59.74.214/32,🎯 全球直连,no-resolve
-  - DOMAIN-SUFFIX,the-best-airport.com,🎯 全球直连,no-resolve
+  - "IP-CIDR,18.182.5.122/32,🎯 全球直连,no-resolve"
+  - "IP-CIDR,163.123.192.52/32,🎯 全球直连,no-resolve"
+  - "IP-CIDR,163.123.192.53/32,🎯 全球直连,no-resolve"
+  - "IP-CIDR,163.123.192.54/32,🎯 全球直连,no-resolve"
+  - "IP-CIDR,163.123.192.55/32,🎯 全球直连,no-resolve"
+  - "IP-CIDR, 148.59.74.213/32,🎯 全球直连,no-resolve"
+  - "IP-CIDR, 148.59.74.214/32,🎯 全球直连,no-resolve"
+  - "DOMAIN-SUFFIX,the-best-airport.com,🎯 全球直连,no-resolve"
